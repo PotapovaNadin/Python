@@ -1,0 +1,15 @@
+/Users/nadezdapotapova/Desktop/Итоговая проверочная работа/bin/Debug/net6.0/Итоговая проверочная работа
+/Users/nadezdapotapova/Desktop/Итоговая проверочная работа/bin/Debug/net6.0/Итоговая проверочная работа.deps.json
+/Users/nadezdapotapova/Desktop/Итоговая проверочная работа/bin/Debug/net6.0/Итоговая проверочная работа.runtimeconfig.json
+/Users/nadezdapotapova/Desktop/Итоговая проверочная работа/bin/Debug/net6.0/Итоговая проверочная работа.dll
+/Users/nadezdapotapova/Desktop/Итоговая проверочная работа/bin/Debug/net6.0/Итоговая проверочная работа.pdb
+/Users/nadezdapotapova/Desktop/Итоговая проверочная работа/obj/Debug/net6.0/Итоговая проверочная работа.csproj.AssemblyReference.cache
+/Users/nadezdapotapova/Desktop/Итоговая проверочная работа/obj/Debug/net6.0/Итоговая проверочная работа.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nadezdapotapova/Desktop/Итоговая проверочная работа/obj/Debug/net6.0/Итоговая проверочная работа.AssemblyInfoInputs.cache
+/Users/nadezdapotapova/Desktop/Итоговая проверочная работа/obj/Debug/net6.0/Итоговая проверочная работа.AssemblyInfo.cs
+/Users/nadezdapotapova/Desktop/Итоговая проверочная работа/obj/Debug/net6.0/Итоговая проверочная работа.csproj.CoreCompileInputs.cache
+/Users/nadezdapotapova/Desktop/Итоговая проверочная работа/obj/Debug/net6.0/Итоговая проверочная работа.dll
+/Users/nadezdapotapova/Desktop/Итоговая проверочная работа/obj/Debug/net6.0/refint/Итоговая проверочная работа.dll
+/Users/nadezdapotapova/Desktop/Итоговая проверочная работа/obj/Debug/net6.0/Итоговая проверочная работа.pdb
+/Users/nadezdapotapova/Desktop/Итоговая проверочная работа/obj/Debug/net6.0/Итоговая проверочная работа.genruntimeconfig.cache
+/Users/nadezdapotapova/Desktop/Итоговая проверочная работа/obj/Debug/net6.0/ref/Итоговая проверочная работа.dll
