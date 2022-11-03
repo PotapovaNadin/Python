@@ -11,11 +11,12 @@
 #     day = int(input("Введите число дня недели: "))
 #     if day > 5 and day < 8:
 #         print('Указанный день является выходным')
-#     if day < 5:
+#     elif day < 6:
 #         print('Указанный день не является выходным')
+#     else:
+#         print('Введите число от 1 до 7')
 # except:
 #     print('Введите число от 1 до 7')
-
 
 # задача 2. Напишите программу для. проверки истинности утверждения
 #  ¬(X ⋁ Y ⋁ Z) = ¬X ⋀ ¬Y ⋀ ¬Z для всех значений предикат.
@@ -100,33 +101,33 @@
 # Sample Output 3:
 # 0.5
 
-# try:
-#     num1 = float(input('Введите первое число '))
-#     oper = str(input('Введите операцию '))
-#     num2 = float(input('Введите второе число '))
+try:
+    num1 = float(input('Введите первое число '))
+    oper = str(input('Введите операцию '))
+    num2 = float(input('Введите второе число '))
 
-#     if oper == '+':
-#         print(num1 + num2)
-#     elif oper == '-':
-#         print(num1 - num2)
-#     elif oper == '/':
-#         if num2 == 0:
-#             print('Деление на 0!')
-#         else:
-#             print(num1 / num2)
-#     elif oper == '*':
-#         print(num1 * num2)
-#     elif oper == 'mod':
-#         if num2 == 0:
-#             print('Деление на 0!')
-#         else:
-#             print(num1 % num2)
-#     elif oper == 'pow':
-#         print(num1 ** num2)
-#     elif oper == 'div':
-#         if num2 == 0:
-#             print('Деление на 0!')
-#         else:
-#             print(num1 // num2)
-# except:
-#     print(' Введите число ')
+    if oper == '+':
+        print(num1 + num2)
+    elif oper == '-':
+        print(num1 - num2)
+    elif oper == '/':
+        if num2 == 0:
+            print('Деление на 0!')
+        else:
+            print(num1 / num2)
+    elif oper == '*':
+        print(num1 * num2)
+    elif oper == 'mod':
+        if num2 == 0:
+            print('Деление на 0!')
+        else:
+            print(num1 % num2)
+    elif oper == 'pow':
+        print(num1 ** num2)
+    elif oper == 'div':
+        if num2 == 0:
+            print('Деление на 0!')
+        else:
+            print(num1 // num2)
+except:
+    print(' Введите число ')
